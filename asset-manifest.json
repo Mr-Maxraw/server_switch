@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/server_switch/static/js/main.de13b978.chunk.js",
+    "main.js.map": "/server_switch/static/js/main.de13b978.chunk.js.map",
+    "runtime-main.js": "/server_switch/static/js/runtime-main.1bd35570.js",
+    "runtime-main.js.map": "/server_switch/static/js/runtime-main.1bd35570.js.map",
+    "static/css/2.01f4c25d.chunk.css": "/server_switch/static/css/2.01f4c25d.chunk.css",
+    "static/js/2.b4ce533f.chunk.js": "/server_switch/static/js/2.b4ce533f.chunk.js",
+    "static/js/2.b4ce533f.chunk.js.map": "/server_switch/static/js/2.b4ce533f.chunk.js.map",
+    "index.html": "/server_switch/index.html",
+    "precache-manifest.e94f694dad022f57fb43fce9f3dadab7.js": "/server_switch/precache-manifest.e94f694dad022f57fb43fce9f3dadab7.js",
+    "service-worker.js": "/server_switch/service-worker.js",
+    "static/css/2.01f4c25d.chunk.css.map": "/server_switch/static/css/2.01f4c25d.chunk.css.map",
+    "static/js/2.b4ce533f.chunk.js.LICENSE.txt": "/server_switch/static/js/2.b4ce533f.chunk.js.LICENSE.txt",
+    "static/media/dx.light.css": "/server_switch/static/media/dxicons.2b145cef.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bd35570.js",
+    "static/css/2.01f4c25d.chunk.css",
+    "static/js/2.b4ce533f.chunk.js",
+    "static/js/main.de13b978.chunk.js"
+  ]
+}
